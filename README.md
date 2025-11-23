@@ -1,16 +1,54 @@
-## Hi there 👋
+<h2 align="center">hey, i'm <strong>Lenora</strong> 👋😆</h2>
 
-<!--
-**Lenora04/Lenora04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">i build cool tech, break stuff, fix it again, and learn way too fast 🚀✨</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 about me  
+- 🎓 3rd year IT student + future data scientist    
+- 🤖 into machine learning, prediction models & anything that looks ✨smart✨  
+- 🎨 i also make aesthetic UI stuff when the mood hits  
+- 🧠 currently: taking cloud courses + building projects for internship szn  
+
+---
+
+### 🔥 tech stack i vibe with  
+
+**languages & core:**  
+`Python` • `Java` • `JavaScript` • `HTML/CSS`
+
+**data & ml:**  
+`Machine Learning` • `Data Science` • `Pandas` • `NumPy` • `Scikit-Learn`  
+
+**cloud:**  
+`Microsoft Azure` • `AWS`  
+
+
+---
+
+### 🚀 featured projects (my favs)
+
+#### 🔮 Uber Ride Cancellation Prediction  
+ML model that predicts whether users will cancel rides.  
+→ *(classification, feature engineering)*  
+
+#### 👗 Virtual Stylist App  
+Recommends outfits based on style, weather & occasion.  
+→ *(Python backend + classification + recommendation logic with GEMINI)*  
+
+#### 🧠 Continual Learning ML Project  
+A model that learns new tasks without forgetting old ones.  
+→ *(EWC, Replay, advanced ML concepts)*  
+
+---
+
+### 📊 some stats because why not
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+
