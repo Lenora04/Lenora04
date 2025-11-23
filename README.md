@@ -1,6 +1,6 @@
-<h2 align="center">hey, i'm <strong>Lenora</strong> 👋😆</h2>
+<h2 align="center">hey, i'm <strong>Lenora</strong> </h2>
 
-<p align="center">i build cool tech, break stuff, fix it again, and learn way too fast 🚀✨</p>
+<p align="center">i build cool tech, break stuff, fix it again, and learn way too fast ✨</p>
 
 ---
 
