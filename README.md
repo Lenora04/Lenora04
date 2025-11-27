@@ -18,7 +18,7 @@
 `Python` • `Java` • `JavaScript` • `HTML/CSS`
 
 **data & ml:**  
-`Machine Learning` • `Data Science` • `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
+ `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
 
 **cloud:**  
 `Microsoft Azure` • `AWS`  
