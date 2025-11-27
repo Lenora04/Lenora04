@@ -18,11 +18,10 @@
 `Python` • `Java` • `JavaScript` • `HTML/CSS`
 
 **data & ml:**  
-`Machine Learning` • `Data Science` • `Pandas` • `NumPy` • `Scikit-Learn`  
+`Machine Learning` • `Data Science` • `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
 
 **cloud:**  
 `Microsoft Azure` • `AWS`  
-
 
 ---
 
@@ -30,7 +29,7 @@
 
 #### 🔮 Uber Ride Cancellation Prediction  
 ML model that predicts whether users will cancel rides.  
-→ *(classification, feature engineering)*  
+→ *(classification, feature engineering, PyTorch)*  
 
 #### 👗 Virtual Stylist App  
 Recommends outfits based on style & occasion.  
@@ -38,7 +37,7 @@ Recommends outfits based on style & occasion.
 
 #### 🧠 Continual Learning ML Project  
 A model that learns new tasks without forgetting old ones.  
-→ *(EWC, Replay, advanced ML concepts)*  
+→ *(EWC, Replay, Avalanche, PyTorch, advanced ML concepts)*  
 
 ---
 
@@ -48,7 +47,3 @@ A model that learns new tasks without forgetting old ones.
 <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
 </p>
-
----
-
-
