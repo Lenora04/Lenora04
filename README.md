@@ -8,7 +8,7 @@
 - 🎓 3rd year IT student + future data scientist    
 - 🤖 into machine learning, prediction models & anything that looks ✨smart✨  
 - 🎨 i also make aesthetic UI stuff when the mood hits  
-- 🧠 currently: taking cloud courses + building projects for internship szn  
+- 🧠 currently: taking cloud courses + building projects for internship season 
 
 ---
 
@@ -33,7 +33,7 @@ ML model that predicts whether users will cancel rides.
 → *(classification, feature engineering)*  
 
 #### 👗 Virtual Stylist App  
-Recommends outfits based on style, weather & occasion.  
+Recommends outfits based on style & occasion.  
 → *(Python backend + classification + recommendation logic with GEMINI)*  
 
 #### 🧠 Continual Learning ML Project  
@@ -42,7 +42,7 @@ A model that learns new tasks without forgetting old ones.
 
 ---
 
-### 📊 some stats because why not
+### 📊 some stats 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical" height="165"/>
