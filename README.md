@@ -1,65 +1,81 @@
-<h1 align="center">Hey! I'm <strong>Lenora</strong> 👩‍💻</h1>
+<h2 align="center">hey, i'm <strong>Lenora</strong> </h2>
+
+<p align="center">i build cool tech, break stuff, fix it again, and learn way too fast ✨</p>
+
+---
+
+### 💫 about me  
+- 🎓 3rd year IT student + future data scientist    
+- 🤖 into machine learning, prediction models & anything that looks ✨smart✨  
+- 🎨 i also make aesthetic UI stuff when the mood hits  
+- 🧠 currently: taking cloud courses + building projects for internship season 
+
+---
+
+### 🔥 tech stack i vibe with  
+
+**languages & core:**  
+`Python` • `Java` • `JavaScript` • `HTML/CSS`
+
+**data & ml:**  
+`Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
+
+**cloud:**  
+`Microsoft Azure` • `AWS`  
+
+---
+
+### 🚀 featured projects (my favs)
+
+#### 🔮 Uber Ride Cancellation Prediction  
+ML model that predicts whether users will cancel rides.  
+→ *(classification, feature engineering, PyTorch)*  
+
+#### 👗 Virtual Stylist App  
+Recommends outfits based on style & occasion.  
+→ *(Python backend + classification + recommendation logic with GEMINI)*  
+
+#### 🧠 Continual Learning ML Project  
+A model that learns new tasks without forgetting old ones.  
+→ *(EWC, Replay, Avalanche, PyTorch, advanced ML concepts)*  
+
+---
+
+### ☁️ Cloud Achievements
 
 <p align="center">
-  I build smart tech, break stuff, fix again and learn way too fast. 
+  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
+  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
 </p>
 
 ---
 
-### 🌟 About Me & My Mission
-* **Academic:** 🎓 3rd-year IT student focused on leveraging data for impactful solutions.
-* **Core Passion:** 🤖 Deeply invested in **Machine Learning**, **Prediction Models**, and advanced AI concepts like **Continual Learning**. I love building things that look, and *are*, genuinely intelligent.
-* **The Other Side:** 🎨 When I'm not coding models, I enjoy crafting **aesthetic and intuitive UI/UX**, ensuring the tech is a delight to use.
-* **Current Focus:** 🚀 Scaling my knowledge with **Cloud Certifications** (Azure/AWS) and refining my portfolio projects for **Internship Season**.
-
----
-
-### 🛠️ The Toolkit: Tech I Vibe With
-
-| Category | Key Technologies |
-| :--- | :--- |
-| **Languages & Core** | `Python` (Primary) • `Java` • `JavaScript` • `HTML/CSS` |
-| **Data Science & ML** | `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` (Deep Learning) • `Matplotlib` |
-| **Advanced ML** | `Avalanche` (Continual Learning) • Custom ML Architectures |
-| **Cloud Computing** | `Microsoft Azure` • `AWS` (Amazon Web Services) |
-
-### 🚀 Projects (Highlights)
-
-#### 🧠 Continual Learning Model: The Non-Forgetting Brain
-A novel PyTorch model designed to learn new, sequential tasks **without catastrophically forgetting** prior knowledge.
-* **Tech Used:** EWC, Replay Strategies, `Avalanche`, `PyTorch`
-* **Concepts:** Advanced ML, Transfer Learning, Memory Management
-
-#### 🔮 Uber Ride Cancellation Predictor
-Developed a high-accuracy ML classification model to predict the likelihood of a user canceling their scheduled ride.
-* **Tech Used:** `Scikit-Learn`, `Pandas`, Feature Engineering
-* **Impact:** Identifies key behavioral and environmental factors influencing rider reliability.
-
-#### 👗 AI-Powered Virtual Stylist App
-A recommendation system that provides personalized outfit suggestions based on user style, weather, and occasion.
-* **Tech Used:** `Python` Backend, Classification Logic, Recommendation Algorithms (using `GEMINI` for advanced logic)
-* **Focus:** Bridging backend classification with intuitive, real-world utility.
-
----
-
-### 📈 GitHub Stats & Activity
+### 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&count_private=true&hide_border=true&title_color=9A64FB&icon_color=FFFFFF&text_color=E5E5E5&bg_color=191621" alt="Lenora's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dracula&hide_border=true&title_color=9A64FB&side_icon_color=FFFFFF&side_border_color=9A64FB&fire=FF6B6B" alt="GitHub Streak"/>
+  <!-- Repo Size Badges -->
+  [![Virtual Stylist App Size](https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/virtual-stylist)
+  [![Continual Learning ML Size](https://img.shields.io/github/repo-size/Lenora04/Continual-Learning-ML?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
+  [![Portfolio Website Size](https://img.shields.io/github/repo-size/Lenora04/Portfolio-Website?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Portfolio-Website)
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true&title_color=9A64FB&text_color=E5E5E5&bg_color=191621" alt="Top Langs"/>
+  <!-- Social / Activity Badges -->
+  [![Followers](https://img.shields.io/github/followers/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=followers)
+  [![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=stars)
+  [![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
+  [![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
 </p>
 
----
+<p align="center">
+  <!-- Top Languages Badges -->
+  [![Python](https://img.shields.io/github/languages/top/Lenora04/Continual-Learning-ML?style=for-the-badge&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
+  [![Java](https://img.shields.io/github/languages/top/Lenora04/Virtual-Stylist-App?style=for-the-badge&color=radical)](https://github.com/Lenora04/Virtual-Stylist-App)
+  [![JavaScript](https://img.shields.io/github/languages/top/Lenora04/Portfolio-Website?style=for-the-badge&color=radical)](https://github.com/Lenora04/Portfolio-Website)
+  [![HTML](https://img.shields.io/github/languages/top/Lenora04/Portfolio-Website?style=for-the-badge&color=radical)](https://github.com/Lenora04/Portfolio-Website)
+</p>
 
-### 👋 Let's Connect!
-
-I'm always open to discussing data science, cloud architecture, and cool project ideas.
-* **LinkedIn:** [https://www.linkedin.com/in/lenora-maraweera-80b445322/]
-* **Email:** [lenora.ravindi@gmail.com]
-
-
----
+<p align="center">
+  <!-- Optional fun badge: GitHub streak -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenora04&theme=radical)](https://github.com/Lenora04)
+</p>
