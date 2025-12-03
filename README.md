@@ -60,22 +60,8 @@ A model that learns new tasks without forgetting old ones.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
 </p>
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" />
 
-### 🚀 Project Repo Sizes
-
-<p align="center">
-  <a href="https://github.com/Lenora04/virtual-stylist">
-    <img src="https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical"/>
-  </a>
-  
-  <a href="https://github.com/Lenora04/MLOM-project">
-    <img src="https://img.shields.io/github/repo-size/Lenora04/MLOM-project?style=for-the-badge&logo=github&color=radical"/>
-  </a>
-
-</p>
-
----
 
 ### 🌟 Social & Activity
 
