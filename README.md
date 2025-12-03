@@ -1,43 +1,45 @@
-<h2 align="center">hey, i'm <strong>Lenora</strong> </h2>
+# Hey, I'm Lenora 👩‍💻
 
-<p align="center">i build cool tech, break stuff, fix it again, and learn way too fast ✨</p>
-
----
-
-### 💫 about me  
-- 🎓 3rd year IT student + future data scientist    
-- 🤖 into machine learning, prediction models & anything that looks ✨smart✨  
-- 🎨 i also make aesthetic UI stuff when the mood hits  
-- 🧠 currently: taking cloud courses + building projects for internship season 
+<p align="center">
+  I build cool tech, break stuff, fix it again, and learn way too fast ✨
+</p>
 
 ---
 
-### 🔥 tech stack i vibe with  
+### 💫 About Me
+* 🎓 3rd year IT student + future data scientist
+* 🤖 Into machine learning, prediction models & anything that looks ✨smart✨
+* 🎨 I also make aesthetic UI stuff when the mood hits
+* 🧠 Currently: taking cloud courses + building projects for internship season
 
-**languages & core:**  
+---
+
+### 🔥 Tech Stack I Vibe With
+
+**Languages & Core:**
 `Python` • `Java` • `JavaScript` • `HTML/CSS`
 
-**data & ml:**  
+**Data & ML:**
 `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
 
-**cloud:**  
-`Microsoft Azure` • `AWS`  
+**Cloud:**
+`Microsoft Azure` • `AWS`
 
 ---
 
-### 🚀 featured projects (my favs)
+### 🚀 Featured Projects (My Favs)
 
-#### 🔮 Uber Ride Cancellation Prediction  
-ML model that predicts whether users will cancel rides.  
-→ *(classification, feature engineering, PyTorch)*  
+#### 🔮 Uber Ride Cancellation Prediction
+ML model that predicts whether users will cancel rides.
+→ *(classification, feature engineering, PyTorch)*
 
-#### 👗 Virtual Stylist App  
-Recommends outfits based on style & occasion.  
-→ *(Python backend + classification + recommendation logic with GEMINI)*  
+#### 👗 Virtual Stylist App
+Recommends outfits based on style & occasion.
+→ *(Python backend + classification + recommendation logic with GEMINI)*
 
-#### 🧠 Continual Learning ML Project  
-A model that learns new tasks without forgetting old ones.  
-→ *(EWC, Replay, Avalanche, PyTorch, advanced ML concepts)*  
+#### 🧠 Continual Learning ML Project
+A model that learns new tasks without forgetting old ones.
+→ *(EWC, Replay, Avalanche, PyTorch, advanced ML concepts)*
 
 ---
 
@@ -49,28 +51,27 @@ A model that learns new tasks without forgetting old ones.
 
 ---
 
-
-### 📊 GitHub Stats & Top Languages
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" height="165"/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" alt="Lenora's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <!-- Cloud Achievements -->
-  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
-  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
-</p>
-
-<p align="center">
-  <!-- Social / Activity Badges -->
   [![Followers](https://img.shields.io/github/followers/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=followers)
   [![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=stars)
   [![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
   [![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
 </p>
 
+---
+
+### 🤝 Let's Connect!
+
+* **LinkedIn:** [Your LinkedIn Link]
+* **Portfolio:** [Your Portfolio Link]
+
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenora04&theme=radical)](https://github.com/Lenora04)
+</p>
