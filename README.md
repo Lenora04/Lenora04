@@ -44,6 +44,21 @@ A model that learns new tasks without forgetting old ones.
 ### 📊 some stats 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
+  <!-- Total Repositories -->
+  ![Repositories](https://img.shields.io/github/repo-size/Lenora04?style=for-the-badge&logo=github&color=radical)
+  
+  <!-- Stars (from pinned repos) -->
+  ![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)
+  
+  <!-- Commit Activity -->
+  ![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)
+  
+  <!-- Open Issues -->
+  ![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)
 </p>
+
+<p align="center">
+  <!-- Top Language Badge (replace REPO-NAME with your repo) -->
+  ![Top Language](https://img.shields.io/github/languages/top/Lenora04/REPO-NAME?style=for-the-badge&color=radical)
+</p>
+
