@@ -41,14 +41,14 @@ A model that learns new tasks without forgetting old ones.
 
 ---
 
-### ☁️ Cloud Achievements
+### ☁️ Cloud Achievements 🏅
 
-<p align="center">
-  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
-  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
-</p>
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
+&nbsp; 
+[![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
 
 ---
+
 
 ### 📊 GitHub Stats & Top Languages
 
