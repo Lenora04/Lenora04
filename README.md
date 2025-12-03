@@ -75,6 +75,6 @@ A model that learns new tasks without forgetting old ones.
   </a>
 
   <a href="https://github.com/Lenora04">
-    <img src="https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical"/>
-  </a>
+  <img src="https://img.shields.io/github/last-commit/Lenora04/virtual-stylist?style=for-the-badge&color=radical"/>
+</a>
 </p>
