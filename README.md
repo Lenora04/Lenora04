@@ -59,15 +59,6 @@ A model that learns new tasks without forgetting old ones.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
 </p>
 
----
-
-### ☁️ Cloud Achievements 🏅
-<div align="center">
-  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
-  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
-</div>
-
----
 
 ### 🚀 Project Repo Sizes
 <div align="center">
