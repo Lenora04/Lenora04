@@ -18,7 +18,7 @@
 `Python` • `Java` • `JavaScript` • `HTML/CSS`
 
 **data & ml:**  
- `Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
+`Pandas` • `NumPy` • `Scikit-Learn` • `PyTorch` • `Avalanche` • `Matplotlib`
 
 **cloud:**  
 `Microsoft Azure` • `AWS`  
@@ -44,21 +44,31 @@ A model that learns new tasks without forgetting old ones.
 ### 📊 some stats 
 
 <p align="center">
-  <!-- Total Repositories -->
-  ![Repositories](https://img.shields.io/github/repo-size/Lenora04?style=for-the-badge&logo=github&color=radical)
+  <!-- Repo Size -->
+  [![Virtual Stylist App Size](https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/virtual-stylist)
   
-  <!-- Stars (from pinned repos) -->
-  ![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)
+  <!-- Followers -->
+  [![Followers](https://img.shields.io/github/followers/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=followers)
+  
+  <!-- Stars -->
+  [![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=stars)
   
   <!-- Commit Activity -->
-  ![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)
-  
+  [![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
+
   <!-- Open Issues -->
   ![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)
 </p>
 
 <p align="center">
-  <!-- Top Language Badge (replace REPO-NAME with your repo) -->
-  ![Top Language](https://img.shields.io/github/languages/top/Lenora04/REPO-NAME?style=for-the-badge&color=radical)
+  <!-- Top Language Badges -->
+  ![Python](https://img.shields.io/github/languages/top/Lenora04/Continual-Learning-ML?style=for-the-badge&color=radical)
+  ![Java](https://img.shields.io/github/languages/top/Lenora04/Virtual-Stylist-App?style=for-the-badge&color=radical)
+  ![JavaScript](https://img.shields.io/github/languages/top/Lenora04/Portfolio-Website?style=for-the-badge&color=radical)
+  ![HTML](https://img.shields.io/github/languages/top/Lenora04/Portfolio-Website?style=for-the-badge&color=radical)
 </p>
 
+<p align="center">
+  <!-- Optional fun badge: GitHub streak -->
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenora04&theme=radical)
+</p>
