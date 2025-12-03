@@ -51,7 +51,6 @@ A model that learns new tasks without forgetting old ones.
 
 ---
 ### 📊 GitHub Stats & Top Languages
-
 <p align="center">
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" height="165"/>
@@ -59,19 +58,28 @@ A model that learns new tasks without forgetting old ones.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
 </p>
 
+---
 
-### 🚀 Project Repo Sizes
-<div align="center">
-  [![Virtual Stylist App Size](https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/virtual-stylist)
-  [![Continual Learning ML Size](https://img.shields.io/github/repo-size/Lenora04/MLOM-project?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
-</div>
+### ☁️ Cloud Achievements 🏅
+<p align="center">
+  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
+  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
+</p>
+
+---
+
+### 🚀 Featured Projects
+<p align="center">
+  [![Virtual Stylist App](https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/virtual-stylist)
+  [![Continual Learning ML](https://img.shields.io/github/repo-size/Lenora04/Continual-Learning-ML?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
+  [![Portfolio Website](https://img.shields.io/github/repo-size/Lenora04/Portfolio-Website?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Portfolio-Website)
+</p>
 
 ---
 
 ### 🌟 Social & Activity
-<div align="center">
+<p align="center">
   [![Followers](https://img.shields.io/github/followers/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=followers)
   [![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=stars)
   [![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
-  [![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
-</div>
+</p>
