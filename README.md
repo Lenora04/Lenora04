@@ -58,7 +58,7 @@ A recommendation system that provides personalized outfit suggestions based on u
 ### 👋 Let's Connect!
 
 I'm always open to discussing data science, cloud architecture, and cool project ideas.
-* **LinkedIn:** [[Link to your LinkedIn Profile](https://www.linkedin.com/in/lenora-maraweera-80b445322/)]
+* **LinkedIn:** [https://www.linkedin.com/in/lenora-maraweera-80b445322/]
 * **Email:** [lenora.ravindi@gmail.com]
 
 
