@@ -53,10 +53,17 @@ A model that learns new tasks without forgetting old ones.
 ### 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  <!-- Repo Size Badges -->
-  [![Virtual Stylist App Size](https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/virtual-stylist)
-  [![Continual Learning ML Size](https://img.shields.io/github/repo-size/Lenora04/Continual-Learning-ML?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
-  [![Portfolio Website Size](https://img.shields.io/github/repo-size/Lenora04/Portfolio-Website?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Portfolio-Website)
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" height="165"/>
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Cloud Achievements -->
+  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
+  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
 </p>
 
 <p align="center">
@@ -67,15 +74,3 @@ A model that learns new tasks without forgetting old ones.
   [![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
 </p>
 
-<p align="center">
-  <!-- Top Languages Badges -->
-  [![Python](https://img.shields.io/github/languages/top/Lenora04/Continual-Learning-ML?style=for-the-badge&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
-  [![Java](https://img.shields.io/github/languages/top/Lenora04/Virtual-Stylist-App?style=for-the-badge&color=radical)](https://github.com/Lenora04/Virtual-Stylist-App)
-  [![JavaScript](https://img.shields.io/github/languages/top/Lenora04/Portfolio-Website?style=for-the-badge&color=radical)](https://github.com/Lenora04/Portfolio-Website)
-  [![HTML](https://img.shields.io/github/languages/top/Lenora04/Portfolio-Website?style=for-the-badge&color=radical)](https://github.com/Lenora04/Portfolio-Website)
-</p>
-
-<p align="center">
-  <!-- Optional fun badge: GitHub streak -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenora04&theme=radical)](https://github.com/Lenora04)
-</p>
