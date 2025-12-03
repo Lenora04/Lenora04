@@ -50,28 +50,37 @@ A model that learns new tasks without forgetting old ones.
 [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
 
 ---
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" alt="Lenora's GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
+### 📊 GitHub Stats & Top Languages
 
 <p align="center">
-  [![Followers](https://img.shields.io/github/followers/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=stars)
-  [![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
-  [![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Lenora04&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lenora04&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect!
+### ☁️ Cloud Achievements 🏅
+<div align="center">
+  [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws)](https://www.your-certificate-link.com)
+  [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data%20Fundamentals-blue?style=for-the-badge&logo=microsoft)](https://www.your-certificate-link.com)
+</div>
 
-* **LinkedIn:** [Your LinkedIn Link]
-* **Portfolio:** [Your Portfolio Link]
+---
 
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lenora04&theme=radical)](https://github.com/Lenora04)
-</p>
+### 🚀 Project Repo Sizes
+<div align="center">
+  [![Virtual Stylist App Size](https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/virtual-stylist)
+  [![Continual Learning ML Size](https://img.shields.io/github/repo-size/Lenora04/MLOM-project?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04/Continual-Learning-ML)
+</div>
+
+---
+
+### 🌟 Social & Activity
+<div align="center">
+  [![Followers](https://img.shields.io/github/followers/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=followers)
+  [![Stars](https://img.shields.io/github/stars/Lenora04?style=for-the-badge&logo=github&color=radical)](https://github.com/Lenora04?tab=stars)
+  [![Commits](https://img.shields.io/github/commit-activity/m/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
+  [![Open Issues](https://img.shields.io/github/issues/Lenora04?style=for-the-badge&color=radical)](https://github.com/Lenora04)
+</div>
