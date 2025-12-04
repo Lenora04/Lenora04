@@ -45,7 +45,7 @@
     <img src="https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical"/>
   </a>
 
-  
+  <br><br>
 
   <a href="https://github.com/Lenora04/MLOM-project">
     <strong>Continual Learning ML Project</strong><br/>
