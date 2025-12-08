@@ -1,7 +1,7 @@
 # Hey, I'm Lenora 👩‍💻
 
 <p align="center">
-  I build cool tech, fix things, and learn fast ✨
+  I build cool tech, break things, fix it again and learn too fast ✨
 </p>
 
 ---
