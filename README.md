@@ -51,8 +51,8 @@
     <strong>Continual Learning ML Project</strong><br/>
     <img src="https://img.shields.io/github/repo-size/Lenora04/MLOM-project?style=for-the-badge&logo=github&color=radical"/>
   </a>
-
-  <br><br>
+  </div>
+  <div>
 
   <a href="https://github.com/Lenora04/Clothing-Sales-Prediction-and-Recommendation">
     <strong>Clothing sales Prediction and Recommendation system</strong><br/>
