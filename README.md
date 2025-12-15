@@ -38,26 +38,4 @@
 
 ---
 
-### 🚀 Project Repo Sizes
-<div align="center">
-  <a href="https://github.com/Lenora04/virtual-stylist">
-    <strong>Virtual Stylist App</strong><br/>
-    <img src="https://img.shields.io/github/repo-size/Lenora04/virtual-stylist?style=for-the-badge&logo=github&color=radical"/>
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/Lenora04/MLOM-project">
-    <strong>Continual Learning ML Project</strong><br/>
-    <img src="https://img.shields.io/github/repo-size/Lenora04/MLOM-project?style=for-the-badge&logo=github&color=radical"/>
-  </a>
-
-  <br><br>
-  
-  <a href="https://github.com/Lenora04/Clothing-Sales-Prediction-and-Recommendation">
-    <strong>Clothing sales Prediction and Recommendation system</strong><br/>
-    <img src="https://img.shields.io/github/repo-size/Lenora04/Clothing-Sales-Prediction-and-Recommendation?style=for-the-badge&logo=github&color=radical"/>
-  </a>
-  
-</div>
 
