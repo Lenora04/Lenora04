@@ -7,7 +7,7 @@
 ---
 
 ### 💫 About Me
-- 🎓 3rd year IT student + future data scientist  
+- 🎓 4th year IT student + future data scientist  
 - 🤖 Into machine learning & prediction models  
 - 🧠 Currently: taking cloud courses + building projects for internship season  
 
